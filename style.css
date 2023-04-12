@@ -1,0 +1,13 @@
+body{
+font-family: 'Varela Round', sans-serif;
+}
+#canvas {
+    width: 1080px;
+    height: 1920px;
+    background-color: rgb(255, 255, 255);
+}
+#banner{
+    width: 1080px;
+    height: 150px;
+    background-color: rgb(124, 167, 124);
+}
